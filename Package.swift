@@ -29,8 +29,8 @@ let package = Package(
     .binaryTarget(
       name: "Google-SearchInApps-SDK",
       url:
-        "https://dl.google.com/search-in-apps/e8067644fc38dcd7169b02244db4d446/SearchInAppsSDK.xcframework.zip",
-      checksum: "cd7bc69472c25360898da79b22756f6d49db99d6eb3d8422d98bf78caf5ae0be"
+        "https://dl.google.com/search-in-apps/4e6688558be90fbeb2da80f7c98942cc/SearchInAppsSDK.xcframework.zip",
+      checksum: "bfd9826ade82e04c277ce7aceeb25cf17e97c05bd97d1931dde3bb6a8343dfce"
     )
   ]
 )
